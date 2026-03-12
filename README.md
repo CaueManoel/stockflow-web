@@ -9,9 +9,9 @@ O objetivo do projeto é demonstrar conceitos de desenvolvimento web, organizaç
 
 ## 🖥️ Preview do Sistema
 
-```
-![Preview do sistema](./assets/bila-site.png)
-```
+<p align="center">
+  <img src="./assets/bila-site.png" width="800">
+</p>
 
 ## ⚙️ Funcionalidades
 
