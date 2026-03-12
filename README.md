@@ -10,7 +10,7 @@ O objetivo do projeto é demonstrar conceitos de desenvolvimento web, organizaç
 ## 🖥️ Preview do Sistema
 
 ```
-./assets/bila-site.png
+![Preview do sistema](./assets/bila-site.png)
 ```
 
 ## ⚙️ Funcionalidades
@@ -72,4 +72,4 @@ Este projeto foi desenvolvido como parte do **portfólio de desenvolvimento**, c
 Desenvolvido por **Cauê Manoel**
 
 * GitHub: https://github.com/CaueManoel
-* LinkedIn: (adicione aqui seu LinkedIn)
+* LinkedIn: https://www.linkedin.com/in/cauemanoel
